@@ -1,16 +1,16 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "username": "bobby12",
+      "email": "bob@bob.com",
+      "password": "bobby12",
+      "id": "1611916993321"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "username": "bobby13",
+      "email": "bob@gmail.com",
+      "password": "bobby13",
+      "id": "1612307550499"
     }
   ]
 }
