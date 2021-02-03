@@ -18,7 +18,7 @@ low(adapter)
   .then((db) => {
     // Routes
     app.get("/", (req, res) => {
-      res.send("Hello World!");
+      res.send("Hello World test!");
     });
 
     app.post("/register", async (req, res) => {
